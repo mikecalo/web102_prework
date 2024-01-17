@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/j87xxKu' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3lkaXRvcnh0aWV6cTR6ZDU2enppM3F6NmlrMmVkOHluaWl0bXNlMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yIY0gpMkIzcJrJVksW/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with Flixier  
 
